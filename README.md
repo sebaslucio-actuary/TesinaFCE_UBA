@@ -1,6 +1,6 @@
 # TesinaFCE_UBA
 
-El uso de modelos ARIMAX para modelar el impacto de las fluctuaciones de tipo de cambio en el precio del valor de los respuestos. 
+El uso de modelos ARIMAX para modelar el impacto de las fluctuaciones de tipo de cambio en el valor de los respuestos y de los vehìculos automotores. 
 
 "......Para dar claridad acerca de la temporalidad y magnitud de shocks de este tipo, en el
 presente trabajo se construye una herramienta de gestión, que simula el impacto de un
